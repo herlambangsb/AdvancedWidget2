@@ -1,6 +1,6 @@
 # AdvancedWidget2
 ### A. (Deskripsi Proyek)
-- Judul Proyek : Add Widget Programmatically
+- Judul Proyek : Butter Knife
 <br>
 
 ### B. (ScreenShot)
